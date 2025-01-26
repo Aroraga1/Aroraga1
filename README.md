@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Aroraga1 ~ Garvit Arora<br>👀 I’m interested in Web UI/UX Designing & Development<br>🌱 I’m currently learning JS & Java<br>💞️ I’m looking to collaborate on Web Development, UI/UX Design and Java Projects<br>📫 How to reach me via My_UserName ~ Aroraga1
+👋 Hi, I’m @Aroraga1 ~ Garvit Arora<br>👀 I’m interested in Tech. & Development<br>🌱 I’m currently a full stack web developer<br>💞️ I’m looking to collaborate on Web Development & awesome ideas & Projects<br>📫 How to reach me via My_UserName ~ Aroraga1
 
 
 ## 🌐 Socials:
